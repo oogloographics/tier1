@@ -16,7 +16,7 @@
 <mastertype>live</mastertype>
 <type>category</type>
 <category_view>1-TierView</category_view>
-<items_link>https://dl.dropboxusercontent.com/s/rl95gc591gpcsbw/PakistaniTier2.txt?dl=0</items_link>
+<items_link>https://github.com/oogloographics/tier2list/blob/master/tier2list.txt</items_link>
 <item_image/>
 </item>
 
