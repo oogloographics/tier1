@@ -1,0 +1,24 @@
+<xml>
+<version>1.0</version>
+<view>2-tierView</view>
+<title>Youtube Live Channels</title>
+<channel_logo/>
+<tier_info>
+<item_startidx>0</item_startidx>
+<total_items>1</total_items>
+<items_link></items_link>
+</tier_info>
+<items>
+
+<item>
+<id>1</id>
+<name>Pakistani</name>
+<mastertype>live</mastertype>
+<type>category</type>
+<category_view>1-TierView</category_view>
+<items_link>https://dl.dropboxusercontent.com/s/rl95gc591gpcsbw/PakistaniTier2.txt?dl=0</items_link>
+<item_image/>
+</item>
+
+</items>
+</xml>
